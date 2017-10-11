@@ -1,0 +1,2 @@
+# mapper_datatables
+这是一个基于通用mapper的插件,用来完成dataTables的查询,目前只是粗略实现,还有进行结构优化,如果有兴趣请至issues区讨论
